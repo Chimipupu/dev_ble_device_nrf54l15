@@ -68,3 +68,5 @@
 ## 参考文献
 
 - [Seeed Studio XIAO nRF54L15(Sense) 入門ガイド](https://wiki.seeedstudio.com/ja/xiao_nrf54l15_sense_getting_started/)🔗
+- [nRF Connect SDK 環境構築方法(V3.0.0編)](https://www.kgdev.co.jp/column/nordic-column0048/)🔗
+- [nRF54L15 開発導入情報](https://www.kgdev.co.jp/column/nordic-column0050/)🔗
