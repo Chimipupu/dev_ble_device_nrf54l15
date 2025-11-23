@@ -4,7 +4,7 @@
 
 - 開発言語 ... C言語
 - RTOS ... [Zephyr](https://www.zephyrproject.org/)🔗
-- ツールチェイン ... [sdk-nrf-toolchain v2.6.4-NCSDK-34113-2-preview2](https://github.com/nrfconnect/sdk-nrf/pkgs/container/sdk-nrf-toolchain)🔗
+- ツールチェイン ... [nRF Connect SDK Toolchain V3.1.1](https://github.com/nrfconnect/sdk-nrf/releases/tag/v3.1.1)🔗
 - SDK ... [nRF Connect SDK V3.1.1](https://github.com/nrfconnect/sdk-nrf/releases/tag/v3.1.1)🔗
 - ライブラリ ... [platform-seeedboards](https://github.com/Seeed-Studio/platform-seeedboards)🔗
 
